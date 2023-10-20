@@ -2,7 +2,7 @@
 ## Blueprint version of Advanced Locomotion System port into General Movement Component
 ## Install Steps
 1. Download Zip.
-2. Extract "GMC-ALS-Demo" to yoour projects folder.
+2. Extract "GMC-ALS-Demo" to your projects folder.
 3. Launch with Unreal 5.3 version.
 4. Rebuild the missing modules (Worked on the second rebuild on my end).
 5. Go to the content drawer settings and enable "Show plugin content".
