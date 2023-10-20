@@ -7,7 +7,6 @@
 5. Go to the content drawer settings and enable "Show plugin content".
    
 The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
-There is Also a quickly made steam Host/Join with advancedPlugin for testing.
 
 ## ALS port into General Movement Component
 
