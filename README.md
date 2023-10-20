@@ -1,4 +1,11 @@
 # GMC-ALS
+## Install Steps
+1 Download Zip
+2 Extract
+3
+4
+
+
 ## ALS port into General Movement Component
 
 **Command line used:**
