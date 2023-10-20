@@ -1,5 +1,5 @@
 # GMC-ALS
-## ALS port into General Movement Component
+## Blueprint version of Advanced Locomotion System port into General Movement Component
 ## Install Steps
 1. Download Zip.
 2. Extract "GMC-ALS-Demo" to yoour projects folder.
@@ -9,8 +9,7 @@
    
 The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
 
-## ALS port into General Movement Component
-
+____________________________________
 **Command line used:**
 - Log LogGMCReplication Verbose
 - gmc.ShowClientErrors 1
