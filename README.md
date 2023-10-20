@@ -1,10 +1,10 @@
 # GMC-ALS
 ## Install Steps
 1. Download Zip
-2. Extract
-3.
-4.
-
+2. Extract "GMC-ALS-Demo" to yoour projects folder
+3. Launch with a 5.3 Unreal engine version
+4. Rebuild the missing modules (Worked on the second rebuild on my end)
+5. Go to the content drawer settings and enable "Show plugin content"
 
 ## ALS port into General Movement Component
 
