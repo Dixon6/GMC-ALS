@@ -15,8 +15,6 @@ ____________________________________
 - Log LogGMCReplication Verbose
 - gmc.ShowClientErrors 1
 - gmc.ShowClientCorrections 1
-
-### _Here are the remiaining issues I am trying to fix:_
 ____________________________________
 - Did not mess with the Simulation Mode/Interpolation yet. Kept the default settings for bindings in most cases. Might be able to disable some to save bandwith.
 
