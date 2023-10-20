@@ -1,10 +1,12 @@
 # GMC-ALS
 ## Install Steps
-1. Download Zip
-2. Extract "GMC-ALS-Demo" to yoour projects folder
-3. Launch with a 5.3 Unreal engine version
-4. Rebuild the missing modules (Worked on the second rebuild on my end)
-5. Go to the content drawer settings and enable "Show plugin content"
+1. Download Zip.
+2. Extract "GMC-ALS-Demo" to yoour projects folder.
+3. Launch with Unreal 5.3 version.
+4. Rebuild the missing modules (Worked on the second rebuild on my end).
+5. Go to the content drawer settings and enable "Show plugin content".
+The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
+There is Also a quickly made steam Host/Join with advancedPlugin for testing.
 
 ## ALS port into General Movement Component
 
