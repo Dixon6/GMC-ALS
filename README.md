@@ -16,9 +16,9 @@ ____________________________________
 - gmc.ShowClientErrors 1
 - gmc.ShowClientCorrections 1
 ____________________________________
-- Did not mess with the Simulation Mode/Interpolation yet. Kept the default settings for bindings in most cases. Might be able to disable some to save bandwith.
+- Did not mess with the Simulation Mode/Interpolation yet. Kept the default settings for bindings in most cases. Might be able to disable some to save bandwidth.
 
-- Compressed double precission Float[0] (Aim Yaw Rate) errors in the log very occasionally.
+- Compressed double precision Float[0] (Aim Yaw Rate) errors in the log very occasionally.
 
 **Change Overlay:**
 - "Overlay State" is client auth. Might want to rework for your specific project to be server auth.
