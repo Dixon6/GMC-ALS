@@ -1,4 +1,5 @@
 # GMC-ALS
+## ALS port into General Movement Component
 ## Install Steps
 1. Download Zip.
 2. Extract "GMC-ALS-Demo" to yoour projects folder.
