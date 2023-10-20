@@ -10,6 +10,7 @@
 The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
 
 ____________________________________
+### _Here are the remiaining issues I am trying to fix:_
 **Command line used:**
 - Log LogGMCReplication Verbose
 - gmc.ShowClientErrors 1
