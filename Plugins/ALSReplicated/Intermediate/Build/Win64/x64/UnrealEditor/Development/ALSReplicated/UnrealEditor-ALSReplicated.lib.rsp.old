@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ALSReplicated.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"S:\My stuff\Unreal\ProjectBackup\GMC_ALS\Intermediate\Build\Win64\x64\GMC_ALSEditor\Development\Engine\SharedPCH.Engine.Cpp17.h.obj"
+"S:\My stuff\Unreal\ProjectBackup\GMC_ALS\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\Module.ALSReplicated.cpp.obj"
+"S:\My stuff\Unreal\ProjectBackup\GMC_ALS\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\Default.rc2.res"
+/OUT:"S:\My stuff\Unreal\ProjectBackup\GMC_ALS\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\UnrealEditor-ALSReplicated.lib"

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ALSReplicated.cpp.obj": [
+			"ALSBaseCharacter.gen.cpp.obj",
+			"ALSCharacterMovementComponent.gen.cpp.obj",
+			"ALSReplicated.init.gen.cpp.obj",
+			"ALSBaseCharacter.cpp.obj",
+			"ALSCharacterMovementComponent.cpp.obj",
+			"ALSReplicated.cpp.obj"
+		]
+	}
+}

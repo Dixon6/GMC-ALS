@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Erik\Downloads\GMC_ALS\Intermediate\Build\Win64\x64\GMC_ALSEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Erik\Downloads\GMC_ALS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Erik\Downloads\GMC_ALS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\Erik\Downloads\GMC_ALS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
