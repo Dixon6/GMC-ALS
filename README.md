@@ -5,7 +5,7 @@ Be sure to have GMC's latest V2 beta build with UE 5.3 in your marketplace plugi
 1. Download Zip.
 2. Extract "GMC-ALS-Demo" to your projects folder.
 3. Launch the .uproject file.
-4. Rebuild the missing modules (Worked on the second rebuild on my end).
+4. Rebuild the missing modules.
 5. Go to the content drawer settings and enable "Show plugin content".
    
 The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
