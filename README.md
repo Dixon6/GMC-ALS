@@ -30,8 +30,6 @@ ____________________________________
       
 **Roll:**
 - Compressed Vector[3] (Acceleration) sometimes replay in the log when having some movement input in a different direction while rolling.
-- Roll animation hitches or does not play on a host/standalone with FPS above 90.
-- Roll animation looks slightly jittery from a simulated pawn view.
    
 **Ragdoll/Get Up:**
 - Complete rework (Deactivated for now)
