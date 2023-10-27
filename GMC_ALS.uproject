@@ -3,21 +3,7 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "GMC_ALS",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
 		{
 			"Name": "GMC",
 			"Enabled": true,
