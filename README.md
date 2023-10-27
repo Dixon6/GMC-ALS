@@ -5,18 +5,18 @@ Be sure to have GMC's latest V2 beta build with UE 5.3 in your marketplace plugi
 1. Download Zip.
 2. Extract "GMC-ALS-Demo" to your projects folder.
 3. Launch the .uproject file.
-4. Rebuild the missing modules.
 5. Go to the content drawer settings and enable "Show plugin content".
    
 The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
 
 ____________________________________
-### _Here are the remaining issues I am trying to fix:_
 **Command line used:**
 - Log LogGMCReplication Verbose
 - gmc.ShowClientErrors 1
 - gmc.ShowClientCorrections 1
-____________________________________
+
+### _Here are the remaining issues I am trying to fix:
+_____________________________________
 - Did not mess with the Simulation Mode/Interpolation yet. Kept the default settings for bindings in most cases. Might be able to disable some to save bandwidth.
 - Compressed double precision Float[0] (Aim Yaw Rate) errors in the log very occasionally.
    
