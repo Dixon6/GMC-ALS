@@ -27,7 +27,7 @@ _____________________________________
 - Compressed Vector[3] (Acceleration) sometimes replay in the log when having some movement input in a different direction while rolling.
 
 **Turn In Place**
-- Aiming rotation while standing still does not match the feet's animation perfectly.
+- Animation does not match very well with the turn in place right now. Will need to tweak a bit.
    
 **Ragdoll/Get Up:**
 - Complete rework (Deactivated for now)
