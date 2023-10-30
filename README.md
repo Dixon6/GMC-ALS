@@ -30,4 +30,4 @@ _____________________________________
 - Animation does not match very well with the turn in place right now. Will need to tweak a bit.
    
 **Ragdoll/Get Up:**
-- Complete rework (Deactivated for now)
+- Can now start and end ragdoll, but need to work on a ragdoll update to set location and get up anim.
