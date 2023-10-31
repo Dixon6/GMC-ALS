@@ -27,6 +27,7 @@ _____________________________________
 
 **Turn In Place**
 - Animation does not match very well with the turn in place right now. Will need to tweak a bit.
+- While in "Rotation mode:Looking direction", looking backwards and aiming quickly causes the animation to play twice.
    
 **Ragdoll/Get Up:**
 - Can now start and end ragdoll, but need to work on a ragdoll update to set location and get up anim.
