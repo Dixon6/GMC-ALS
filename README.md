@@ -17,7 +17,6 @@ ____________________________________
 
 ### Here are the remaining issues I am trying to fix:
 _____________________________________
-- Did not mess with the Simulation Mode/Interpolation yet. Kept the default settings for bindings in most cases. Might be able to disable some to save bandwidth.
 - Compressed double precision Float[0] (Aim Yaw Rate) errors in the log very occasionally.
    
 **Mantle:**
