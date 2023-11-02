@@ -24,9 +24,6 @@ _____________________________________
       
 **Roll:**
 - Compressed Vector[3] (Acceleration) sometimes replay in the log when having some movement input in a different direction while rolling.
-
-**Turn In Place**
-- Animation does not match very well with the turn in place right now. Will need to tweak a bit.
    
 **Ragdoll/Get Up:**
-- Can now start and end ragdoll, but need to work on a ragdoll update to set location and get up anim.
+- Ragdoll is now set but still lacks a bit of polish. Using an impulse on the mesh to keep it alligned with the root which can feel a bit unatural right now.
