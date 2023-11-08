@@ -15,15 +15,16 @@ ____________________________________
 - gmc.ShowClientErrors 1
 - gmc.ShowClientCorrections 1
 
-### Here are the remaining issues I am trying to fix:
+### Here are the remaining issues I am trying to fix/implement:
 _____________________________________
-- Compressed double precision Float[0] (Aim Yaw Rate) errors in the log very occasionally.
+**Level:**
+- Wan't to add moving platforms.
    
 **Mantle:**
 - Blend in missing (Can be found in "Mantle Update" function, step 3's last lerp transform.).
       
-**Roll:**
-- Compressed Vector[3] (Acceleration) sometimes replay in the log when having some movement input in a different direction while rolling.
+**Turn in Place:**
+- Need to fix the feet's animation twisting too much.
    
 **Ragdoll/Get Up:**
 - Ragdoll is now set but still lacks a bit of polish. Using an impulse on the mesh to keep it alligned with the root which can feel a bit unatural right now.
