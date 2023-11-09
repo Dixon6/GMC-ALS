@@ -19,9 +19,6 @@ ____________________________________
 _____________________________________
 **Level:**
 - Wan't to add moving platforms.
-   
-**Mantle:**
-- Blend in missing (Can be found in "Mantle Update" function, step 3's last lerp transform.).
       
 **Turn in Place:**
 - Need to fix the feet's animation twisting too much.
