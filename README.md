@@ -13,13 +13,8 @@ Be sure to have GMC's latest V2 beta build with UE 5.3 in your marketplace plugi
 The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/AdvancedLocomotionV4/Blueprints/CharacterLogic".
 
 ____________________________________
-**Command line used:**
-- Log LogGMCReplication Verbose
-- gmc.ShowClientErrors 1
-- gmc.ShowClientCorrections 1
-
 ### Here are the remaining issues I am trying to fix/implement:
-_____________________________________
+
 **Level:**
 - Wan't to add moving platforms.
       
