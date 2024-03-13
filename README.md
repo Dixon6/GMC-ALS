@@ -14,9 +14,6 @@ The GMC Pawn and Component is found inside "Plugins/ALSReplicatedContent/Advance
 
 ____________________________________
 ### Here are the remaining issues I am trying to fix/implement:
-
-**Level:**
-- Wan't to add moving platforms.
       
 **Turn in Place:**
 - Need to fix the feet's animation twisting too much.
